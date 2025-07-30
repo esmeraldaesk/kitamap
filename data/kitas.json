@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Städt. Kita am Seepark",
+    "adresse": "Hofackerstr. 75A, 79110 Freiburg-Betzenhausen",
+    "ö": "Mo–Fr 07:00–17:00"
+  },
+  {
+    "name": "Städt. Kita Sprungbrett",
+    "adresse": "Zehntsteinweg 9A, 79110 Freiburg-Betzenhausen",
+    "ö": ""
+  },
+  {
+    "name": "Kita RP Löwenzahn",
+    "adresse": "Bissierstr. 3, 79114 Freiburg-Betzenhausen",
+    "ö": "Mo–Fr 07:00–17:00"
+  },
+  {
+    "name": "Ev. Matthäuskindergarten",
+    "adresse": "Freytagstr. 4, 79114 Freiburg-Betzenhausen",
+    "ö": ""
+  },
+  {
+    "name": "Kita Sonnenschein",
+    "adresse": "Idingerstr. 7/1, 79110 Freiburg-Betzenhausen",
+    "ö": "Mo–Fr 07:30–14:30"
+  }
+]
